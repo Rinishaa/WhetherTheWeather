@@ -17,10 +17,6 @@ Explore the different weather details, including temperature, humidity, wind spe
 Configuration
 To make use of the RapidAPI weather service, you need to obtain an API key and replace the placeholder in the JavaScript code with your own API key. Follow these steps:
 
-Sign up for a RapidAPI account at https://rapidapi.com if you haven't already.
-Search for the weather API service and subscribe to it.
-Obtain your API key from the RapidAPI dashboard.
-Open the script.js file and replace the placeholder value 'YOUR_API_KEY' with your actual API key.
 
 Credits
 Weather data provided by RapidAPI.
