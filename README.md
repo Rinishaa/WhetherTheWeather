@@ -25,7 +25,3 @@ Open the script.js file and replace the placeholder value 'YOUR_API_KEY' with yo
 Credits
 Weather data provided by RapidAPI.
 
-License
-This project is licensed under the MIT License.
-
-Feel free to customize this README.md file based on your specific project details and add any additional sections or information you deem necessary.
